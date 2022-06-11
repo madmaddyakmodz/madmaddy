@@ -10,11 +10,11 @@
 <a href="#"><img title="Pikachu" src="https://img.shields.io/badge/Pikachu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Author-AmeerSuhail-0/Pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/madmaddyakmodz"><img title="Author" src="https://img.shields.io/badge/Author-AmeerSuhail-0/Pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumthodi</a> to make it public
+Project created by <a href="https://github.com/madmaddyakmodz">madmaddyakmodz</a> to make it public
     <br>
        | © |
         Reserved |
@@ -26,9 +26,9 @@ Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumth
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ameer-kallumthodi/Pikachu-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@madmaddyakmodz/Pikachu-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/madmaddyakmodz/pikachu)
      </div>
 <br>
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
@@ -39,15 +39,15 @@ bash <(curl -L https://t.ly/tHxh)
   
 1. If you dont have a github account create a account. Click [GIT HUB SIGN UP](https://github.com/signup/)
 
-2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@ameer-kallumthodi/Pikachu-QR?v=1)
+2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@madmaddyakmodz/Pikachu-QR?v=1)
  
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/ameer-kallumthodi/pikachu/fork)
+ Click [FORK](https://github.com/madmaddyakmodz/pikachu/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu copy this url and change ameer-kallumthodi with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/madmaddyakmodz/pikachu copy this url and change madmaddyakmodz with your github username and click go<br>
 
 ----
 
@@ -61,16 +61,16 @@ bash <(curl -L https://t.ly/tHxh)
 </p>
 
   <p align="center">
-  <a href="httsp://github.com/ameer-kallumthodi/pikachu">
+  <a href="httsp://github.com/madmaddyakmodz/pikachu">
 <p align="center">
-<a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=Magenta&style=flat-square"></a>
+<a href="https://github.com/madmaddyakmodz/followers"><img title="Followers" src="https://img.shields.io/github/followers/madmaddyakmodz?color=Magenta&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://i.imgur.com/reMlxoc.png)](http://wa.me/+919946432377)
+  [![join](https://i.imgur.com/reMlxoc.png)](http://wa.me/+47 973 33 348)
   <div align="center">
        
   </div>
@@ -112,9 +112,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-  [![`Ameer Suhail`](https://github.com/ameer-kallumthodi.png?size=200)](https://github.com/ameer-kallumthodi)
+  [![`Ameer Suhail`](https://github.com/madmaddyakmodz.png?size=200)](https://github.com/madmaddyakmodz)
 
-[`Ameer Suhail`](https://github.com/ameer-kallumthodi)  
+[`Ameer Suhail`](https://github.com/madmaddyakmodz)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
     
@@ -125,4 +125,3 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
-
