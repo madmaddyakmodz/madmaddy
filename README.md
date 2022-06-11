@@ -53,11 +53,11 @@ bash <(curl -L https://t.ly/tHxh)
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/ameer_.su_hail" target="blank"><img align="center" src="https://i.imgur.com/abRLc29.png" alt="kyrie.baran" height="80" width="160" /></a>
+<a href="https://youtube.com/channel/UCWroqii8PORgNBdZO5MG6Fw" height="80" width="160" /></a>
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
-<a href="https://youtu.be/_D4ZYuUSXjs" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+<a href="https://youtu.be/_D4ZYuUSXjs" target="blank"><img align="center" src="https://youtube.com/channel/UCWroqii8PORgNBdZO5MG6Fw" height="45" width="90" /></a>
 </p>
 
   <p align="center">
