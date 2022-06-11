@@ -81,7 +81,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/ameer-kallumthodi/pikachu
+$ git clone https://github.com/madmaddyakmodz/madmaddy
 $ cd pikachu
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -91,7 +91,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ameer-kallumthodi/pikachu
+$ git clone https://github.com/madmaddyakmodz/madmaddy
 $ cd pikachu
 $ chmod +x *
 $ npm i
