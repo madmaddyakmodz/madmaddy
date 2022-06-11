@@ -1,16 +1,16 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=WELCOME+TO+PIKACHU+WA+BOT+REPO.;CREATED+BY+AMEER+SUHAIL;THIS+IS+A+BGM+STIKER+BOT;WITH+MORE+FEATURES;THANKS+FOR+VISITING)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=WELCOME+TO+madmaddy+WA+BOT+REPO.;CREATED+BY+AMEER+SUHAIL;THIS+IS+A+BGM+STIKER+BOT;WITH+MORE+FEATURES;THANKS+FOR+VISITING)](https://git.io/typing-svg)
 
  </a>
 </p>
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/20220425_164209.jpg" width="300" height="300"/>
   <p align="center">
-<a href="#"><img title="Pikachu" src="https://img.shields.io/badge/Pikachu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="madmaddy" src="https://img.shields.io/badge/madmaddy-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/madmaddyakmodz"><img title="Author" src="https://img.shields.io/badge/Author-AmeerSuhail-0/Pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/madmaddyakmodz"><img title="Author" src="https://img.shields.io/badge/Author-AmeerSuhail-0/madmaddy?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -26,9 +26,9 @@ Project created by <a href="https://github.com/madmaddyakmodz">madmaddyakmodz</a
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@madmaddyakmodz/Pikachu-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@madmaddyakmodz/madmaddy-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/madmaddyakmodz/pikachu)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/madmaddyakmodz/madmaddy)
      </div>
 <br>
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
@@ -39,15 +39,15 @@ bash <(curl -L https://t.ly/tHxh)
   
 1. If you dont have a github account create a account. Click [GIT HUB SIGN UP](https://github.com/signup/)
 
-2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@madmaddyakmodz/Pikachu-QR?v=1)
+2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@madmaddyakmodz/madmaddy-QR?v=1)
  
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/madmaddyakmodz/pikachu/fork)
+ Click [FORK](https://github.com/madmaddyakmodz/madmaddy/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/madmaddyakmodz/pikachu copy this url and change madmaddyakmodz with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/madmaddyakmodz/madmaddy copy this url and change madmaddyakmodz with your github username and click go<br>
 
 ----
 
@@ -61,7 +61,7 @@ bash <(curl -L https://t.ly/tHxh)
 </p>
 
   <p align="center">
-  <a href="httsp://github.com/madmaddyakmodz/pikachu">
+  <a href="httsp://github.com/madmaddyakmodz/madmaddy">
 <p align="center">
 <a href="https://github.com/madmaddyakmodz/followers"><img title="Followers" src="https://img.shields.io/github/followers/madmaddyakmodz?color=Magenta&style=flat-square"></a>
 </p>
@@ -70,7 +70,7 @@ bash <(curl -L https://t.ly/tHxh)
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://i.imgur.com/reMlxoc.png)](http://wa.me/+47 973 33 348)
+  [![join](https://i.imgur.com/reMlxoc.png)](http://wa.me/+4797333348)
   <div align="center">
        
   </div>
@@ -82,7 +82,7 @@ $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
 $ git clone https://github.com/madmaddyakmodz/madmaddy
-$ cd pikachu
+$ cd madmaddy
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -92,7 +92,7 @@ $ node qr.js
 ```js
 SETUP
 $ git clone https://github.com/madmaddyakmodz/madmaddy
-$ cd pikachu
+$ cd madmaddy
 $ chmod +x *
 $ npm i
 $ node qr.js
